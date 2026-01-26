@@ -14,6 +14,6 @@ const anotherNumber = [24, 36, 48, 60];
 anotherNumber.unshift(12);
 console.log(anotherNumber);
 
-const bookName = ["english", "bangla", "math", "boilogy", "chemestry"];
+const bookName = ["english", "bangla", "math", "biology", "chemistry"];
 const removeBookName = bookName.shift();
 console.log(bookName);
